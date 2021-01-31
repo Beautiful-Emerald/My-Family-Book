@@ -1,0 +1,14 @@
+body{
+text-align:center;
+background-color:aquamarine;
+}
+img{
+height:400px;
+}
+#name{
+margin-left:70;
+}
+#button{
+width:50;
+margin-right:-60
+}
